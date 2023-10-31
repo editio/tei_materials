@@ -1,0 +1,105 @@
+/* ## CSS stylesheet for visualising TEI on the browser ## */
+
+/* ## José Luis Losada: TEI Workshop's materials ##  */
+
+TEI {
+  width: 75%;
+  margin: 0 auto;
+}
+
+/* ## HEADER ## */
+
+bibl title,
+editor,
+pubPlace,
+publisher,
+author {
+
+  display: block;
+  color: maroon;
+  text-align: left;
+}
+
+fileDesc,
+titleStmt,
+publicationStmt,
+sourceDesc,
+profileDesc,
+respStmt,
+revisionDesc,
+item,
+normalization {
+  color: gray;
+  display: block;
+  margin: 10px;
+  border: 1px dotted olive;
+  font: 10pt "Times New Roman";
+  padding: 4px;
+}
+
+titleStmt author,
+title,
+docAuthor {
+  display: block;
+  text-align: center;
+  margin-bottom: 10px;
+  color: purple;
+}
+
+/*## letters ##*/
+
+div[type="letter"] dateline {
+    font-style: italic;
+    display: block;
+    text-align: right;
+  }
+  div[type="letter"] salute {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  div[type="letter"] p {
+    line-height: 1.4;
+    display: block;
+  }
+  
+  div[type="letter"] closer {
+    display: block;
+    margin-top: 20px;
+  }  
+
+  correspAction[type="sent"] {
+    text-align: left;
+    padding: 10px;
+    background-color: #007bff;
+    border-radius: 0px 70px 70px 0;
+    color: #fff;
+    
+  }
+  
+  correspAction[type="received"] {
+    text-align: right;
+    padding: 10px;
+    background-color: #007bff;
+    border-radius: 0px 70px 70px 0;
+    margin: 10px 0;
+    color: #fff;
+  }
+  
+  correspAction[type="sent"]::after {
+    content: "\2192"; /* Left arrow character */
+    margin-right: 5px;
+  }
+  
+  correspAction {
+    display: inline-block;
+    max-width: 60%;
+  }
+
+  correspAction date, correspAction placeName  {
+    display: none; /* Hide the date & placeName element in correspAction */
+  }
+
+  lb {
+    display: block;
+  }

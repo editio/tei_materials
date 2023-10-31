@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-stylesheet type="text/css" href="vizualize-tei-letters-xml.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Johann Paul Friedrich (Pseud. Jean Paul) Richter</persName>
+               <date when="1804-11-10">10. November 1804</date>
+               <placeName>Bayreuth</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Johann Siegfried Wilhelm Mayer</persName>
+               <placeName>Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>Bayreuth</placeName> d. <date when="1804-11-10">10. Nov. 1804</date>
+               </dateline>
+               <salute>Verehrtester Vater!</salute>
+            </opener>
+            <p>Gestern abends um 11 Uhr, gerade am Geburtstage von Max, wurde meine Caroline
+               glücklich und leicht von einem kräftigen Mädchen entbunden. Noch fühlt sie sich fast
+               zu gesund für ihren Mut. Da ich seit gestern aus einem Autor ein Wärter geworden: so
+               werden Sie die Kürze vergeben, womit ich die Geschichte meiner Freude und die
+               Versicherung meiner unveränderten Dankbarkeit und Hochachtung Ihnen gebe. Vielleicht
+               gewinn ich in den nächsten Wochen die Zeit zu einem längeren Blatte. Ich und Caroline
+               grüßen Sie und Ihre treffliche Gattin mit warmer ehrender Seele.</p>
+            <closer>
+               <salute>Ihr dankvoller Sohn J. P. F. Richter</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

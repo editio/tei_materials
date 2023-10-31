@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Tomek Nowak</persName>
+               <date>12 June 2020</date>
+               <placeName>Kraków</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>John White</persName>
+               <placeName>London</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            
+            <opener>
+            
+               <dateline>
+                  <placeName>Kraków,</placeName>
+                  <date>12 June 2020</date>
+               </dateline>
+               <salute>Dear John,</salute>
+            </opener>
+            <p>How's life treating you? I've been enjoying my time in Spain, where I've had the
+               pleasure of exploring the picturesque streets of Barcelona and indulging in
+               delectable tapas in Madrid. Soon, I will be embarking on a journey to Italy, where I
+               look forward to savoring authentic pasta in Rome, appreciating the magnificent art in
+               Florence, and immersing myself in the rich culture that this country has to offer. I
+               truly wish you were here to share in these incredible experiences.</p>      
+            <closer>
+               <salute>Wishing you all the best,</salute>
+               <signed>Tomek</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

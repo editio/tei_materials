@@ -1,0 +1,23 @@
+--- Normalised ---
+
+Bayreuth d. 10. Nov. 1804
+
+Verehrtester Vater!
+Gestern abends um 11 Uhr, gerade am Geburtstage von Max, wurde meine Caroline glücklich und leicht von einem kräftigen Mädchen entbunden. Noch fühlt sie sich fast zu gesund für ihren Mut. Da ich seit gestern aus einem Autor ein Wärter geworden: so werden Sie die Kürze vergeben, womit ich die Geschichte meiner Freude und die Versicherung meiner unveränderten Dankbarkeit und Hochachtung Ihnen gebe. Vielleicht gewinn ich in den nächsten Wochen die Zeit zu einem längeren Blatte. Ich und Caroline grüßen Sie und Ihre treffliche Gattin mit warmer ehrender Seele.
+Ihr dankvoller Sohn J. P. F. Richter
+
+--- Original ---
+
+Bayreuth d. 10. Nov. 1804
+
+Verehrteſter Vater!
+Geſtern abends um 11 Uhr, gerade am Geburtstage von Max, wurde meine Caroline glücklich und leicht von einem kräftigen Mädchen entbunden. Noch fühlt ſie ſich faſt zu geſund für ihren Muth. Da ich ſeit geſtern aus einem Autor ein Wärter geworden: ſo werden Sie die Kürze vergeben, womit ich die Geſchichte meiner Freude und die Verſicherung meiner unveränderten Dankbarkeit und Hoch-achtung Ihnen gebe. Vielleicht gewinn' ich in den nächſten Wochen die Zeit zu einem längern Blatte. Ich und Caroline grüßen Sie und Ihre treffliche Gattinn mit warmer ehrender Seele.
+Ihr dankvoller Sohn J. P. F. Richter
+
+Source:
+
+Jean Paul: Dritte Abteilung Briefe. In: Jean Pauls Sämtliche Werke. Historisch-kritische Ausgabe. Abt. 3, Bd. 5. Berlin, 1961, S. 10. In: Deutsches Textarchiv <https://www.deutschestextarchiv.de/jeanpaul_briefe05_1961/18>
+
+Langes S: &#x17F;
+
+oXygen: edit > insert from character map > Latin Small Letter Long S
