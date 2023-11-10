@@ -9,7 +9,7 @@
 library(XML)
 
 # Load the XML
-xmlfile <-  xmlParse("03_TEI_namedEntities//3.4-Stendhal_Memoires_1838_done.xml", encoding="UTF-8")
+xmlfile <-  xmlParse("../03_TEI_namedEntities/3.4-Stendhal_Memoires_1838_done.xml", encoding="UTF-8")
 namespace <- c(TEI="http://www.tei-c.org/ns/1.0")
 
 # Extract with xPath from teiHeader
