@@ -3,3 +3,7 @@
 .Rmd
 *.Rmd
 .Rproj.user
+.RData
+.Rhistory
+.idea/
+*.xpr
