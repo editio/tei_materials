@@ -68,7 +68,7 @@
                   <country>France</country>
                   <location>
                      <!--lat, long-->
-                     <geo>48.85341,2.3488</geo>
+                     <geo>48.85341 2.3488</geo>
                   </location>
                   <idno type="GeoNames">2988507</idno>
                </place>
@@ -77,7 +77,7 @@
                   <country>France</country>
                   <location>
                      <!--lat, long-->
-                     <geo>45.74846,4.84671</geo>
+                     <geo>45.74846 4.84671</geo>
                   </location>
                   <idno type="GeoNames">2996944</idno>
                </place>
@@ -86,7 +86,7 @@
                   <country>France</country>
                   <location>
                      <!--lat, long-->
-                     <geo>43.29695,5.38107</geo>
+                     <geo>43.29695 5.38107</geo>
                   </location>
                   <idno type="GeoNames">2995469</idno>
                </place>
@@ -95,7 +95,7 @@
                   <country>France</country>
                   <location>
                      <!--lat, long-->
-                     <geo>45.17155,5.72239</geo>
+                     <geo>45.17155 5.72239</geo>
                   </location>
                   <idno type="GeoNames">3014728</idno>
                </place>
